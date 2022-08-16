@@ -5,6 +5,16 @@
 联系：itlwei@163.com  QQ:28701884<br>
 Demo：https://itlwei.github.io/Chess/
 
+http://qi.luhui.net/
+
+http://xiangqi.luhui.net/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/442f3ec5-bdce-4897-8f5e-5f64d51031ba/deploy-status)](https://app.netlify.com/sites/xiangqi/deploys)
+
+https://xiangqi.netlify.app/
+
+
+
 中国象棋 - in html5是一款使用html5 canvas开发的开源小游戏，不依赖任何类库，不依赖任何后台程序，全部原生Javascript进行AI计算，欢迎广大业内同行多多交流指正，共同完善。
 
 ##特点
