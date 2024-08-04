@@ -8,11 +8,10 @@ Demo：https://itlwei.github.io/Chess/
 http://qi.luhui.net/
 
 http://xiangqi.luhui.net/
-https://xiangqi.guanfu.org
-![演示展示](https://xiangqi.guanfu.org/qi20220816150807.jpg)
+![演示展示](https://xiangqi.luhui.net/qi20220816150807.jpg)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/442f3ec5-bdce-4897-8f5e-5f64d51031ba/deploy-status)](https://app.netlify.com/sites/xiangqi/deploys)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bdf426ee-ea2f-446d-822a-8aff199280d6/deploy-status)](https://app.netlify.com/sites/xiangqi/deploys)
-https://xiangqi.netlify.app/
+
 
 
 
